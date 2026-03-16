@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "title": {
+    "text": "Mon application",
+    "id": "387512",
+    "limit": "20"
+  },
+  "buttons": {
+    "toolbars": {
+      "load": {
+        "text": "Charger",
+        "id": "98284",
+        "note": "The toolbar button to load a document",
+        "limit": "5",
+        "source": "src/app/toolbar.tsx"
+      },
+      "save": {
+        "text": "Enregistrer",
+        "id": "98285",
+        "note": "The toolbar button to save a document",
+        "limit": "5",
+        "source": "src/app/toolbar.tsx"
+      }
+    },
+    "menus": {
+      "load": {
+        "text": "Charger..",
+        "id": "98286",
+        "note": "The menu item to open the document loading dialog",
+        "limit": "10",
+        "image": "https://example.com/edit-menu.png"
+      },
+      "save": {
+        "text": "Enregistrer..",
+        "id": "98287",
+        "note": "The menu item to open the document saving dialog",
+        "limit": "10",
+        "image": "https://example.com/edit-menu.png"
+      }
+    }
+  }
+}
