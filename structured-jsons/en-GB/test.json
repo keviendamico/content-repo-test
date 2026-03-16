@@ -2,22 +2,22 @@
   "version": "1.0",
   "title": {
     "id": 387512,
-    "text": "My App",
+    "text": "This is My App",
     "limit": 20
   },
   "buttons": {
     "toolbars": {
       "load": {
         "id": 98284,
-        "text": "Load",
-        "note": "The toolbar button to load a document",
+        "text": "Load the document",
+        "note": "The toolbar button to load a document. Modified",
         "limit": 5,
         "source": "src/app/toolbar.tsx"
       },
       "save": {
         "id": 98285,
-        "text": "Save",
-        "note": "The toolbar button to save a document",
+        "text": "Save the document",
+        "note": "The toolbar button to save a document. Modified",
         "limit": 5,
         "source": "src/app/toolbar.tsx"
       }
@@ -26,14 +26,14 @@
       "load": {
         "id": 98286,
         "text": "Load..",
-        "note": "The menu item to open the document loading dialog",
+        "note": "The menu item to open the document loading dialog. Modified",
         "limit": 10,
         "image": "https://example.com/edit-menu.png"
       },
       "save": {
         "id": 98287,
-        "text": "Save..",
-        "note": "The menu item to open the document saving dialog",
+        "text": "Save (Dialog)..",
+        "note": "The menu item to open the document saving dialog. Modified",
         "limit": 10,
         "image": "https://example.com/edit-menu.png"
       }
