@@ -1,0 +1,9 @@
+{
+  "buttons": {
+    "toolbars": {
+      "load": {
+        "text": "Load the document"
+      }
+    }
+  }
+}
