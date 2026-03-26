@@ -2,7 +2,16 @@
   "buttons": {
     "toolbars": {
       "load": {
-        "text": "Load the document"
+        "text": "Load the document",
+        "id": 98284,
+        "note": "The toolbar button to load a document. Modified",
+        "limit": 5,
+        "languages": [
+          "en-US",
+          "ja-JP"
+        ],
+        "service_type": "premium",
+        "source": "src/app/toolbar.tsx"
       }
     }
   }
