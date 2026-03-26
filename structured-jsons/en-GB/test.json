@@ -12,6 +12,8 @@
         "text": "Load the document",
         "note": "The toolbar button to load a document. Modified",
         "limit": 5,
+        "languages": ["en-US", "ja-JP"],
+        "service_type": "premium",
         "source": "src/app/toolbar.tsx"
       },
       "save": {
